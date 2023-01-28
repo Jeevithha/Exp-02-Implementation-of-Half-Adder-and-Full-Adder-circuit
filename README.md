@@ -60,18 +60,18 @@ endmodule
 ```
 ## Half adder
 ### Rtl: 
-![](1.png)
+![](/1.png)
 ### Timing diagram:
-![](2.png)
+![](/2.png
 ### Truthtable:
-![](3.png)
+![](/3.png)
 ## Full adder:
 ### Rtl:
-![](4.png)
+![](/4.png)
 ### Timing diagram:
-![](5.png)
+![](/5.png
 ### Truthtable:
-![](6.png)
+![](/6.png)
 
 ## Result:
 Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
