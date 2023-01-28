@@ -62,7 +62,7 @@ endmodule
 ### Rtl: 
 ![](/1.png)
 ### Timing diagram:
-![](/2.png
+![](/2.png)
 ### Truthtable:
 ![](/3.png)
 ## Full adder:
