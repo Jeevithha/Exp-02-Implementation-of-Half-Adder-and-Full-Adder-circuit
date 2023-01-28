@@ -69,7 +69,7 @@ endmodule
 ### Rtl:
 ![](/4.png)
 ### Timing diagram:
-![](/5.png
+![](/5.png)
 ### Truthtable:
 ![](/6.png)
 
